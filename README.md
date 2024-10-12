@@ -2,10 +2,10 @@
 
 # About Me
 
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Next.jS
+- 👀 I’m interested in Front/Backend Development
+- 🌱 I’m currently Work With Next.jS
 - 💞️ I’m looking to collaborate on expert developers
-- 📫 How to reach me farjul@fajrul.id
+- 📫 How to reach me tutorialgario@gmail.com
 
 ## Stats📈
 <p align="start">
